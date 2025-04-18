@@ -1,0 +1,13 @@
+[{
+    
+    "query":                "الازهر",
+    "section":              "top",
+    "min_retweets":         "1",
+    "min_likes":            "1",
+    "limit":                "20",
+    "start_date":           "2025-04-07",
+    "language":             "ar",
+    "end_date":             "2025-04-08",
+    "continuation_token":"DAACCgACF_Sz76EAJxAKAAMX9LPvoP_Y8AgABAAAAAILAAUAAABQRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUFVWDlJWmx4cHZBZkJmMG5RNUxHdUVQRi9TdTZPSGJzQ0VYOUp6Y3psdUJ3UmYwbFE3Q1dxQWsIAAYAAAAACAAHAAAAAAwACAoAARf0hmXGm8B8AAAA"
+}
+]
